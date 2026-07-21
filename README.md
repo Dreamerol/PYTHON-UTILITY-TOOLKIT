@@ -6,7 +6,11 @@
 
 
 
+<div align="center">
+
 ## A lightweight command-line toolkit built with Python for data management, file persistence, and text processing.
+
+</div>
 
 
 
