@@ -11,7 +11,7 @@
 
 <div align="center">
 
-# CLI • Data & File Processing
+# Key-Value Storage • File Operations • Text Processing
 
 </div>
 
