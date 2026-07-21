@@ -14,11 +14,7 @@
 
 
 
-# 🐍 𝗣𝗬𝗧𝗛𝗢𝗡 𝗨𝗧𝗜𝗟𝗜𝗧𝗬 𝗧𝗢𝗢𝗟𝗞𝗜𝗧
-
-<div align="center">
-
-A lightweight command-line toolkit built with Python for data management, file persistence, and text processing.
+## A lightweight command-line toolkit built with Python for data management, file persistence, and text processing.
 
 
 
