@@ -120,10 +120,10 @@ Built-in tools for working with text:
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva • Software Engineer • Python Developer •
-CLI Applications • Data Structures • File Processing • Algorithms •
-Backend Development • Clean Code • Problem Solving • APIs •
-Data Engineering • Applied Machine Learning • AI • Python • C++ • Java •
+Mihaela Koseva (Михаела Косева) • Software Engineer • Python •
+CLI Applications • Data Structures • Algorithms •
+Backend Development • Problem Solving • APIs •
+Data Engineering • Applied Machine Learning • AI • C++ • Java •
 SQL • Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch
 
 </p>
