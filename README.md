@@ -11,7 +11,7 @@
 
 <div align="center">
 
-# Python CLI Toolkit • Data & File Processing
+# CLI • Data & File Processing
 
 </div>
 
