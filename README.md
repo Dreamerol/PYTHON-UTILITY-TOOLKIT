@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# Python CLI Toolkit • File & Data Management
+# Python CLI Toolkit • Data Management
 
 </div>
 
