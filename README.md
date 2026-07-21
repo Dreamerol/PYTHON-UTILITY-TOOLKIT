@@ -120,7 +120,11 @@ Built-in tools for working with text:
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
+Mihaela Koseva • Software Engineer • Python Developer •
+CLI Applications • Data Structures • File Processing • Algorithms •
+Backend Development • Clean Code • Problem Solving • APIs •
+Data Engineering • Applied Machine Learning • AI • Python • C++ • Java •
+SQL • Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch
 
 </p>
 
