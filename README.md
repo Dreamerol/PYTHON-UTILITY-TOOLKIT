@@ -20,11 +20,13 @@
 <br>
 
 
-
-
-<!-- Картинка на 100% ширина -->
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg" alt="Python Advanced Project" width="100%">
-
+<a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg" 
+    alt="Python Advanced Project" 
+    width="100%"
+  >
+</a>
 
 
 <br>
