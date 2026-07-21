@@ -37,11 +37,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3.x-306998?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/CLI-Application-00A6C8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/File-Processing-008CBA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data-Structures-E5B700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-Version_Control-306998?style=for-the-badge&logo=git&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/CLI-Application-4A4A4A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/File-Processing-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data-Structures-FFCA28?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </p>
 
