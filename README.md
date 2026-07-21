@@ -11,7 +11,7 @@
 
 <div align="center">
 
-# Python CLI Toolkit • Data Management
+# Python CLI Toolkit • Data & File Processing
 
 </div>
 
@@ -92,13 +92,11 @@ Built-in tools for working with text:
 ## 🛠️ Tech Stack
 
 
-
-
-- 🐍 Python
-- 📚 Dictionaries & Data Structures
-- 📂 File Input / Output
-- 🔤 String Processing
-- 💻 Command-Line Interface (CLI)
+🐍 Python
+💻 Command-Line Interface (CLI)
+📚 Dictionaries & Data Structures
+📂 File Input / Output
+🔤 String Processing
 
 
 
