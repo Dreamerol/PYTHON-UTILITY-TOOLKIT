@@ -4,8 +4,13 @@
 🐍 𝗣𝗬𝗧𝗛𝗢𝗡 𝗨𝗧𝗜𝗟𝗜𝗧𝗬 𝗧𝗢𝗢𝗟𝗞𝗜𝗧
 </h1>
 
-![MIHAELA KOSEVA](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main
-/ai.jpg)
+
+<!-- Картинка на 100% ширина -->
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg" alt="Python Advanced Project" width="100%">
+
+
+
+---
 
 
 
