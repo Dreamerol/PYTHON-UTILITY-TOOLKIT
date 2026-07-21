@@ -14,6 +14,11 @@
 
 
 
+<br>
+
+
+
+
 <!-- Картинка на 100% ширина -->
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg" alt="Python Advanced Project" width="100%">
 
