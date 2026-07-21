@@ -88,8 +88,6 @@ Built-in tools for working with text:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-
 </div>
 
 - 🐍 Python
