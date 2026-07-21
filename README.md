@@ -113,7 +113,7 @@ Built-in tools for working with text:
 
 <h2 align="center">
   <b><span style="font-size: 50px;">
-   🔥 Built with passion for Python & Web Development
+   🔥 Built with Python & passion for clean software solutions
   </span></h2></b>
 </p>
 
