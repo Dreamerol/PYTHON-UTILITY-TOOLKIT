@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/CLI-Application-00A6C8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/File-Processing-008CBA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data-Structures-E5B700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-Version_Control-0B1F3A?style=for-the-badge&logo=git&logoColor=F0F0F0" />
+<img src="https://img.shields.io/badge/Git-Version_Control-306998?style=for-the-badge&logo=git&logoColor=FFD43B" />
 
 </p>
 
