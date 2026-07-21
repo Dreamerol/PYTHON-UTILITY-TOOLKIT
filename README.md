@@ -23,7 +23,7 @@
 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg" 
-    alt="Python Advanced Project" 
+    alt="Python Utility Toolkit" 
     width="100%"
   >
 </a>
