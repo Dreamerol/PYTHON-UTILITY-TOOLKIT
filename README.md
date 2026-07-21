@@ -91,9 +91,8 @@ Built-in tools for working with text:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
 
-</div>
+
 
 - 🐍 Python
 - 📚 Dictionaries & Data Structures
@@ -132,8 +131,8 @@ Built-in tools for working with text:
 Mihaela Koseva (Михаела Косева) • Software Engineer • Python •
 CLI Applications • Data Structures • Algorithms •
 Backend Development • Problem Solving • APIs •
-Data Engineering • Applied Machine Learning • AI • C++ • Java •
-SQL • Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch
+Data Engineering • Applied Machine Learning • AI •
+C++ • Java • SQL • Pandas • NumPy
 
 </p>
 
