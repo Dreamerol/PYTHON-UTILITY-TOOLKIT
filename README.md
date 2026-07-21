@@ -96,17 +96,6 @@ Built-in tools for working with text:
 
 ---
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3.x-223A5E?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/CLI-Application-2F4F6F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/File-Processing-3B5C7D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data-Structures-48698B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-Version_Control-334B6B?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
 
 <br>
 
