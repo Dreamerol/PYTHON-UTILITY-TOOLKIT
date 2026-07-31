@@ -128,12 +128,6 @@ Built-in tools for working with text:
 
 
 
-<br>
-
-
-
-
-
 
 
 
