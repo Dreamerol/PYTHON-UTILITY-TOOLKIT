@@ -31,23 +31,28 @@
 
 
 
-<br><br>
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+
+<img
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
+width="100%"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+
+</a>
+
+</div>
 
 
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/CLI-Application-00B8D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/File-Processing-1E5AA8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-Version_Control-3776AB?style=for-the-badge&logo=git&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Data-Structures-FFD43B?style=for-the-badge" />
 
 
-</p>
+<br>
 
 
----
 
 
 
@@ -104,7 +109,11 @@ Built-in tools for working with text:
 ---
 
 
-<br>
+
+
+<br><br>
+
+
 
 
 <h2 align="center">
@@ -118,7 +127,24 @@ Built-in tools for working with text:
 
 
 
+
+<br>
+
+
+
+
+
+
+
+
+
+
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
+
+
+
+
+
 
 
 
@@ -127,17 +153,16 @@ Built-in tools for working with text:
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva (Михаела Косева) • Software Engineer • Python •
-CLI Applications • Data Structures • Algorithms •
-Backend Development • Problem Solving • APIs •
-Data Engineering • Applied Machine Learning • AI •
-C++ • Java • SQL • Pandas • NumPy
-
+Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • Data Science • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
-🔗 Explore more on GitHub:
-<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
+© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original portfolio design.
+</p>
+
+<p style="font-size:10px; opacity:0.7;">
+🔗 Explore on GitHub:
+<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • Software Engineer • AI • ML • GitHub • Dreamerol</a>
 </p>
 
 </div>
@@ -146,18 +171,26 @@ C++ • Java • SQL • Pandas • NumPy
 
 
 
-<br><br>
+
+
+
+
+
+
+<br><br><br>
+
+
 
 
 
 
 
 <div align="center">
-  <a href="https://github.com/Dreamerol" target="_blank">
+  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
       width="100%"
-      alt="Mihaela Koseva Banner"
+      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
     />
   </a>
 </div>
@@ -166,7 +199,24 @@ C++ • Java • SQL • Pandas • NumPy
 
 
 
-<br><br>
+
+
+
+
+<br><br><br>
+
+
+
+
+
+
+
+
+---
+
+
+
+
 
 
 
@@ -176,32 +226,40 @@ C++ • Java • SQL • Pandas • NumPy
 
 <td>
 <a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" height="130">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" height="130"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
 
 
 <td>
-<a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20PORTFOLIO.png" height="130">
+<a href="https://github.com/Dreamerol" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20GITHUB.png" height="130"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
+
 
 <td>
 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" height="130">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" height="130"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
+
 
 <td>
 <a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
 
+
 <td>
 <a href="https://github.com/Dreamerol/RESUME" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" height="130">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" height="130"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
 
@@ -212,12 +270,7 @@ C++ • Java • SQL • Pandas • NumPy
 
 
 
-
-<br><br><br><br>
-
-
-
-
+<br><br><br><br><br>
 
 
 
