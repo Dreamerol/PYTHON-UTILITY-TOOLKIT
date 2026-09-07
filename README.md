@@ -20,6 +20,8 @@
 <br>
 
 
+
+
 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg" 
@@ -33,7 +35,9 @@
 
 
 
-<br><br>
+<br>
+<br>
+<br>
 
 
 
