@@ -202,6 +202,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
+
+
+<div align="left">
 
 
 
@@ -261,6 +265,13 @@ Built-in tools for working with text:
 📚 Dictionaries & Data Structures
 📂 File Input / Output
 🔤 String Processing
+
+
+
+
+</div>
+
+</div>
 
 
 
